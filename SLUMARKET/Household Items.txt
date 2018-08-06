@@ -1,0 +1,10 @@
+<html>
+<head>
+  <link rel="stylesheet"
+   type="text/css"
+   href="css.css">
+</head>
+<body> 
+<h1>HOUSEHOLD ITEMS </h1> 
+</body>
+</html>

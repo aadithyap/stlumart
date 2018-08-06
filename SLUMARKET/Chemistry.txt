@@ -1,0 +1,22 @@
+<html> 
+<head>
+  <link rel="stylesheet"
+   type="text/css"
+   href="css.css">
+</head>
+<body> 
+<table>
+    <tr>
+       <th> <a href="Textbooks.html"> TEXTBOOKS </a>            </th>
+       <th> <a href="Household Items.html"> HOUSEHOLD ITEMS </a>      </th> 
+       <th> <a href="Miscellaenous.html"> MISCELLANEOUS  </a>      </th> 
+    </tr> 
+</table>
+<h1>Chemistry</h1> 
+<br>
+<br>
+<h3>Currently we have books for these classes</h3>
+<p>General Chemistry</p>
+<p>Organic Chemistr</p>
+</body>
+</html>
