@@ -18,7 +18,7 @@
 <br>
 <table>
     <tr> 
-       <td><img src="Health Care Ethics.jpg" width="200";height="200"></td>
+       <td><img src="Health Care Ethics.JPG" width="200";height="200"></td>
     </tr>
     <tr> 
         <td><p>Health Care Ethics <br>Price: $5</br>Owner: Aadi Palaniappan<br>Contact Info:(636)-428-0097</p></td>

@@ -18,8 +18,8 @@
 <h3>These are currently the textbooks that we have for Biology</h3>
 <table>
    <tr>
-       <td><img src="Biochemistry.jpg" width="200";height:="200"></td>  
-       <td><img src="Evolutionary Biology.jpg" width="200";height:="200"></td>
+       <td><img src="Biochemistry.JPG" width="200";height:="200"></td>  
+       <td><img src="Evolutionary Biology.JPG" width="200";height:="200"></td>
    </tr>
    <tr>
        <td><p>Bio 3020 <br>Price:$15<br>Owner:Aadi Palaniappan<br>Contact info: (636)-428-0097</td>
